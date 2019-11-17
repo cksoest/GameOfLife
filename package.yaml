@@ -1,6 +1,6 @@
 name:                GameOfLife
-version:             0.1.0.0
-github:              "githubuser/GameOfLife"
+version:             1.0.0.0
+github:              "cksoest/GameOfLife"
 license:             BSD3
 author:              "Carlo Keizer"
 maintainer:          "carlo.keizer@student.hu.nl"
